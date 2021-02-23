@@ -1,2 +1,2 @@
 # BigMart_Sales
-big mart product sales predicition
+big mart is a famous mart accross USA , and have a dataset of various product and their sales in different regions, different mall type and size and thus based on this information predicted future sales of that particular product in a particular mart , such that in future big mart can easily avail the product before time in order to provide better customer service and earn a good marginal profit than other competitiors
